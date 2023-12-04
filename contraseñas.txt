@@ -1,0 +1,4 @@
+User = u7bjmyal6oeqbn6s
+Pass = vZmTOrlgc7IowU2AIKJo
+
+//Instalar mySqlConnector
